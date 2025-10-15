@@ -247,9 +247,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 If you use this project for academic purposes, please cite as:
 
-```
+
 LAAD. (2025). Semantic Similarity Analysis of Theses Using Sentence Embeddings and Knowledge Graphs. GitHub Repository. https://github.com/<your-username>/tesis-semantic-similarity
-```
+
 
 ```
 
