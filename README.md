@@ -21,5 +21,3 @@ Proyecto automatizado para la recolección, limpieza y análisis de tesis del re
 
 ---
 
-Autor: **[Tu nombre]**  
-Año: 2025 – UNSAAC
