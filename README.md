@@ -1,4 +1,4 @@
-# Tesis-UNSAAC
+# Semantic Similarity Analysis of Theses Using  Sentence Embeddings and Knowledge Graphs
 
 Proyecto automatizado para la recolección, limpieza y análisis de tesis del repositorio institucional de la **UNSAAC**.
 
