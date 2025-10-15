@@ -1,5 +1,4 @@
-# Tesis-unsaac
-# 🎓 Tesis-UNSAAC
+# Tesis-UNSAAC
 
 Proyecto automatizado para la recolección, limpieza y análisis de tesis del repositorio institucional de la **UNSAAC**.
 
