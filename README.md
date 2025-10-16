@@ -247,6 +247,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 If you use this project for academic purposes, please cite as:
 
+---
+## Colab
+https://colab.research.google.com/drive/1pPprt_Sa8DN1frDsvizcijs60Ak4gvle?usp=sharing
+
 
 LAAD. (2025). Semantic Similarity Analysis of Theses Using Sentence Embeddings and Knowledge Graphs. GitHub Repository. https://github.com/<your-username>/tesis-semantic-similarity
 
